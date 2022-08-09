@@ -1,0 +1,37 @@
+body{
+    background-image: url('./images/bg-main-mobile.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+
+}
+
+
+.card{
+    background-image: url('./images/bg-card-front.png');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    box-shadow: 3px 2px 10px rgb(25, 11, 22);
+    
+}
+
+.card .creditNum{
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+
+.card2{
+    background-image: url('./images/bg-card-back.png');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+@media (min-width: 768px){
+    body{
+        background-image: url('./images/bg-main-desktop.png');
+        background-repeat: no-repeat;
+        background-size:50%;
+    }
+}
