@@ -19,6 +19,7 @@ Users should be able to:
 
 ![](./READMEscreenshot.png)
 
+Note: this screenshot was taken earlier on in the project. There are a few small things changed in the final project, and a few minor styling issues fixed.
 
 
 ### Links
@@ -39,7 +40,7 @@ Users should be able to:
 
 From styling the page, I have improved my skills in CSS and Bootstrap, and become more comfortable using divs to move things where I want them on the page. Additionally, I have had almost no practice using background images, but I am now much more comfortable handling them when styling a page. 
 
-
+From the JavaScript portion, I practiced using conditionals and DOM manipulation, and have improved in both of those skills.
 
 
 ### Useful resources
